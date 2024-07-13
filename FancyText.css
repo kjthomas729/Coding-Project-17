@@ -1,0 +1,12 @@
+/* src/FancyText.css */
+.fancy-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 10px;
+  }
+  
+  .fancy-text {
+    font-size: 18px;
+    color: #34495e;
+  }  
